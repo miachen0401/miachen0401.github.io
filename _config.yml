@@ -2,22 +2,22 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Amala Wilson # the website title (if blank, full name will be used instead)
-first_name: Amala
-middle_name: Varghese
-last_name: Wilson
-email: amalachirayil@gmail.com
+title: Miaomiao Chen # the website title (if blank, full name will be used instead)
+first_name: Miaomiao
+middle_name: 
+last_name: Chen
+email: hulachen0401@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Software Engineer | Privacy-Preserving Machine Learning Enthusiast
+  ML Engineer | PhD in Chemistry
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: Machine Learning, LLM, AI4Science   # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: android-chrome-512x512.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://amala-wilson.github.io # the base hostname & protocol for your site
+url: https://miaomiao-chen.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -54,11 +54,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: amala-wilson # your GitHub user name
+github_username: hula0401 # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: amalachirayil # your Twitter handle
-linkedin_username: amalawilson # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+twitter_username:  # your Twitter handle
+linkedin_username: miaomiao-chen-7346ab145 # your LinkedIn user name
+scholar_userid: 4ZrwMKgAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -204,8 +204,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: [Wilson, Chirayil]
-  first_name: [Amala, A.]
+  last_name: [Chen]
+  first_name: [Miaomiao, M.]
 
   style: apa
   locale: en

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2018-09-29 15:59:00-0400
+date: 2023-05-09 15:59:00-0400
 inline: true
 ---
 
-Attended my first Grace Hopper Celebration Conference and it was inspiring. I had a great learning experience after meeting and connecting with folks in different STEM domains 🦸‍♀️👩‍🔬👩‍🏫👩‍💼👩‍🚀👩‍💻
+🎉 Pubilished my **first-author** paper on the Journal of the American Chemical Society  ([JACS](https://pubs.acs.org/doi/abs/10.1021/jacs.3c00165)), title as "Global Discovery of Covalent Modulators of Ribonucleoprotein Granules".

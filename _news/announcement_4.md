@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-05-01 15:59:00-0400
+date: 2024-07-08 15:59:00-0400
 inline: true
 ---
 
-🎉 Manuscript on Anomaly Detection in Wireless Sensor Networks accepted by IEEE/ACIS International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD) to be held in Toyama, Japan.
+ 💼 Excited to share that I’ve started my first industry role as a Sr. Data Scientist at AstraZeneca (one of the world’s top 10 pharmaceutical companies). This marks an important milestone for me as I transition from academic research to building production-grade ML systems in real-world healthcare and life science applications.

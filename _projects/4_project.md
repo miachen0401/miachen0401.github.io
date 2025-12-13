@@ -1,22 +1,18 @@
 ---
 layout: page
-title: Privacy Preserving for Multiple Computer Vision Tasks
+title: Voice News Agent
 #description: 
-img: assets/img/cs298/cs298.png
+img: assets/img/news_agent/krono_screenshot.png
 importance: 1
-category: work
+category: Work
 ---
 
 ---
 
-Privacy-preserving visual recognition is an important area of research that is gaining momentum in the field of computer vision. In a production environment, it is critical to have neural network models learn continually from user data. However, sharing raw user data with a server is less desirable from a regulatory, security and privacy perspective. 
+We’re excited to launch Krono, an AI-powered news intelligence assistant designed to help investors instantly understand what’s moving the markets. Krono continuously monitors financial news, filters noise, and delivers concise, high-signal insights in real time — all through a fast, voice-first experience.
 
-Federated learning addresses the problem of privacy-preserving visual recognition. More specifically, we closely examine and dissect a framework known as Dual User Adaptation (DUA) presented by Lange et al. at CVPR 2020, due to its novel idea of bringing about user-adaptation on both the server-side and user device side. Data in the server and user device is predefined into a series of tasks prior to training and testing. However, since user data is constantly evolving, it’s important to see how DUA performs on unseen data or tasks. A few implementations are also executed to see if the performance of the DUA model can be improved on unseen data. In addition, two other federated learning frameworks are implemented to compare how it performs with DUA. 
+Built with streaming LLMs, a custom ranking pipeline, and our own event-classification system, Krono turns overwhelming information into actionable awareness. Whether it's macro events, earnings surprises, or company-specific catalysts, Krono keeps you ahead of the curve.
 
-Through this research we show that retraining the classifier layer of the merged model with all data categories greatly improves the performance for real-world implementation of DUA.
-
-For more information, please refer to the report of my M.S. writing project.
-
-{% pdf "/assets/pdf/cs298/cs298_report.pdf" %}
+Try our news agent [Krono](https://www.laurionai.com/) today!
 
 ---

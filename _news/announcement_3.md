@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-08-20 15:59:00-0400
+date: 2024-05-19 15:59:00-0400
 inline: true
 ---
 
-✅ Completed an 3-month Internship at [Cisco Systems](https://www.cisco.com/). It was a wonderful learning experience in industry-scale tools written in Java.
+🎓 Thrilled to share that I’ve officially earned my Ph.D! It’s been a challenging and incredibly rewarding journey, and I’m deeply grateful for the support of my PI, colleagues, friends, and family along the way.

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-08-12 15:59:00-0400
+date: 2023-11-08 09:00:00-0400
 inline: true
 ---
 
-✅ Completed an 8-month Internship at [Zact](https://www.zact.com/). I thoroughly enjoyed working with the team on testing the Zact platform on mobile and web apps.
+🎉 Pubilished my **first-author** paper on Proceedings of the National Academy of Sciences of the United States of America ([PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2304900120)), title as "Endocannabinoid biosynthetic enzymes regulate pain response via LKB1–AMPK signaling".

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software Engineer | Privacy-Preserving Machine Learning Enthusiast
+subtitle: Machine Learning Engineer | PhD
 
 profile:
   align: right
@@ -12,16 +12,22 @@ profile:
 #    <p>USA</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+# selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi 👋🙂
+I am currently a Senior Data Scientist at [AstraZeneca](https://www.astrazeneca.com/) (Top 10 global and U.S pharma), with over six years of experience building and deploying machine-learning systems in production. My background spans applied ML, large-scale data systems, and end-to-end model deployment, with hands-on experience in **LLMs, reinforcement learning, agentic systems, and low-latency backend engineering**.
 
-I am an M.S. Graduate in Computer Science (December 2021) from [San Jose State University](https://www.sjsu.edu/cs/programs/mscs/) and a firm believer in lifelong learning. I enjoy developing solutions to challenging problems through implementing and testing well-documented, reproducible and robust code.
+ While my primary role is in industry healthcare and life sciences, my long-term career focus is **Machine Learning Engineering**, particularly in building scalable, real-world AI systems that bridge modeling, infrastructure, and product.
 
-My interests in computer security, data privacy and AI led me to pursue research in privacy-preserving AI as part of [my M.S. thesis project](projects/4_project).
+**Work Experience:**
 
-Besides academic research, my industry experience includes internships at the Silicon Valley fintech startup, [Zact](https://www.zact.com/) , and at [Cisco](https://www.cisco.com/). During my undergraduate studies, I also worked as a Student Contractor at [Delphi Electronics & Safety Verification Lab](https://www.borgwarner.com/delphi-technologies).
+2024 - present, Sr. Data Scientist, [AstraZeneca PLC](https://www.astrazeneca.com/), US
 
-Besides 👩‍💻, I enjoy 🏕️, 🍱, and 📸.
+**Education:**
+
+2024 - present, MS in Computer Science (OMSCS), [Georgia Tech](https://omscs.gatech.edu/current-courses), US (online program)
+
+2019 - 2024, PhD in Chemistry, [University of Virgina](https://www.virginia.edu/), US
+
+2015 - 2019, BS in Biological Science, [ShanghaiTech University](https://slst.shanghaitech.edu.cn/english/), China
