@@ -16,13 +16,13 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Senior Data Scientist at [AstraZeneca](https://www.astrazeneca.com/) (Top 10 global and U.S pharma), with over six years of experience building and deploying machine-learning systems in production. My background spans applied ML, large-scale data systems, and end-to-end model deployment, with hands-on experience in **LLMs, reinforcement learning, agentic systems, and low-latency backend engineering**.
+I am currently a Senior Research Scientist at [AstraZeneca](https://www.astrazeneca.com/) (Top 10 global and U.S pharma), with over six years of experience building and deploying machine-learning systems in production. My background spans applied ML, large-scale data systems, and end-to-end model deployment, with hands-on experience in **LLMs, reinforcement learning, agentic AI systems, and low-latency backend engineering**.
 
  While my primary role is in industry healthcare and life sciences, my long-term career focus is **Machine Learning Engineering**, particularly in building scalable, real-world AI systems that bridge modeling, infrastructure, and product.
 
 **Work Experience:**
 
-2024 - present, Sr. Data Scientist, [AstraZeneca PLC](https://www.astrazeneca.com/), US
+2024 - present, Sr. Research Scientist, [AstraZeneca PLC](https://www.astrazeneca.com/), US
 
 **Education:**
 
