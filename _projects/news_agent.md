@@ -4,7 +4,7 @@ title: Voice News Agent
 #description: 
 img: assets/img/news_agent/krono_screenshot.png
 importance: 1
-category: Work
+category: Tech
 ---
 
 ---
